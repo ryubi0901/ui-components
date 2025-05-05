@@ -1,0 +1,3 @@
+# template-nextjs
+
+Next.jsのテンプレート
