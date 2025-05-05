@@ -9,6 +9,10 @@
   }
 }
 
+button:not(:disabled) {
+  @apply cursor-pointer;
+}
+
 * {
   @apply tracking-lg;
 }
