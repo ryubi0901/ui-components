@@ -1,5 +1,5 @@
 {
-  "name": "template-nextjs",
+  "name": "ui-components",
   "license": "UNLICENSED",
   "scripts": {
     "analyze": "ANALYZE=true yarn build",
